@@ -7,7 +7,7 @@ Develop User tweet using Laravel & React.js
 
 ## About This
 
-This is a demo project, develop using PHP Framework Laravel.
+This is a demo project, develop using PHP Framework Laravel as back-end, React as front-end.
 
 ### Features
 
